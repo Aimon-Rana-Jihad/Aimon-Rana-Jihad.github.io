@@ -7,8 +7,9 @@ author_prfile: true
 ---
 # this is the landing page of projects
  
-
- {% include base_path %}
-  {% for iteam in site.projects %} 
-   {% include archive-single.html type="grid" %}
-    {% endfor %}
+See below the list of work in progress
+===
+ <ul> {% include base_path %}
+  {% for page in site.projects %} 
+   {% include archive-single.html}
+    {% endfor %} <ul>
