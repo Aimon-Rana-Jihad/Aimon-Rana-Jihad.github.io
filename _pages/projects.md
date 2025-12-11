@@ -18,10 +18,10 @@ See below the list of work in progress
 
 <div class="project-item">
     <h3>Supervised Classification Map</h3>
-    <img src="supervised.png" alt="Supervised Map" style="width:100%; max-width:700px; margin-bottom:20px;">
+    <img src="images/supervised.png" alt="Supervised Map" style="width:100%; max-width:700px; margin-bottom:20px;">
 </div>
 
 <div class="project-item">
     <h3>Unsupervised Classification Map</h3>
-    <img src="unsupervised.png" alt="Unsupervised Map" style="width:100%; max-width:700px;">
+    <img src="images/unsupervised.png" alt="Unsupervised Map" style="width:100%; max-width:700px;">
 </div>
