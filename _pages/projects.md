@@ -12,4 +12,4 @@ See below the list of work in progress
  <ul> {% include base_path %}
   {% for page in site.projects %} 
    {% include archive-single.html}
-    {% endfor %} <ul>
+    {% endfor %} </ul>
