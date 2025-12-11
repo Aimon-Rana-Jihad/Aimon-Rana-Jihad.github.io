@@ -9,9 +9,7 @@ author_prfile: true
  
 See below the list of work in progress
 ===
-<ul> 
- {% include base_path %}
-  {% for post in site.projects %} 
-   {% include archive-single.html}
-    {% endfor %} 
-</ul>
+  <ul>{% for post in site.projects reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
