@@ -10,6 +10,6 @@ author_prfile: true
 See below the list of work in progress
 ===
  <ul> {% include base_path %}
-  {% for page in site.projects %} 
+  {% for post in site.projects %} 
    {% include archive-single.html}
     {% endfor %} </ul>
